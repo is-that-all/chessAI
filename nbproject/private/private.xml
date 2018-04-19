@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/board/Board.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>138</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/test/board/BoardTest.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/board/Tile.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/board/Board.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/pieces/Piece.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/Utils/Alliance.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/board/BoardUtils.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/Gui/TakenPiecesPanel.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/pieces/Bishop.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/pieces/Queen.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/Gui/GameHistoryPanel.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/Player/Player.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/pieces/Pawn.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/pieces/Knight.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/Gui/Table.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/board/Move.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/pieces/Rook.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/pieces/King.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/JChess/src/JChess.java</file>
+        </group>
+    </open-files>
+</project-private>
